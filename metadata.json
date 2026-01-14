@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Spy-Ops UI Prototype",
+  "description": "Premium cyberpunk/spy themed interface with modular architecture, video carousels, and functional profile management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
